@@ -1,0 +1,23 @@
+.navbar {
+    background-color: blue;
+    overflow: hidden;
+  }
+
+  .navbar a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navbar a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
